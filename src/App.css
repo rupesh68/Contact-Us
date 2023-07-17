@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("bgimg.jpg");
+  background-repeat: no-repeat;
+  overflow: scroll;
+}

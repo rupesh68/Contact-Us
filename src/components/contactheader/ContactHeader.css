@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,500;1,700&display=swap");
+
+.container {
+  font-family: "Josefin Sans", sans-serif;
+  max-width: 722px;
+  margin-top: 72px;
+}
+
+.container h1 {
+  font-size: 60px;
+  margin-left: 122px;
+}
+
+.container p {
+  margin-left: 122px;
+}

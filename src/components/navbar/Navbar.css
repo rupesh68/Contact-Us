@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap");
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Josefin Sans", sans-serif;
+  height: 72px;
+
+  align-items: center;
+}
+nav h3 {
+  margin-left: 72px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  margin-right: 72px;
+  font-weight: 600;
+}

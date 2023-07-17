@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap");
+
+.container-btn {
+  margin-top: 20px;
+  margin-left: 122px;
+  display: flex;
+  gap: 32px;
+}
+
+button {
+  height: 38px;
+  width: 229px;
+  background-color: #fff;
+  color: black;
+  border: 1px solid black;
+
+  font-weight: 100;
+  font-family: "Josefin Sans", sans-serif;
+  border-radius: 5px;
+  font-weight: 900;
+}
+
+button:hover {
+  color: #fff;
+  background-color: black;
+}
+
+.long-btn {
+  margin-bottom: 5px;
+  margin-left: 50px;
+  width: 391px;
+}
+
+.long-btn:hover {
+  background-color: black;
+  color: #fff;
+}
+
+.form {
+  margin-top: 10px;
+
+  display: grid;
+
+  width: 491px;
+  margin-left: 122px;
+  gap: 0;
+}
+
+input {
+  height: 43px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 9px;
+}
+
+.submit-btn {
+  width: 100px;
+  margin-left: 372px;
+}
+
+.main-container {
+  display: flex;
+}
+
+img {
+  height: 550px;
+  width: 550px;
+  margin-left: 180px;
+  margin-top: -249px;
+
+  mix-blend-mode: color-burn;
+}
+
+.name-lable {
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 25px;
+  font-weight: 700;
+  background-color: #fff;
+  padding: 0 10px;
+  mix-blend-mode: multiply;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.email {
+  margin-top: 20px;
+}
+
+.email-lable {
+  position: absolute;
+  margin-top: 108px;
+  margin-left: 25px;
+  font-weight: 700;
+  background-color: #fff;
+  padding: 0 10px;
+  mix-blend-mode: multiply;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.form textarea {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.text-lable {
+  position: absolute;
+  margin-top: 170px;
+  margin-left: 25px;
+  font-weight: 700;
+  background-color: #fff;
+  padding: 0 10px;
+  mix-blend-mode: multiply;
+  font-family: "Josefin Sans", sans-serif;
+}
